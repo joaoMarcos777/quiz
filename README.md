@@ -4,6 +4,9 @@
 
 > An application that displays how much questions you scored and you can ask as many questions as you want
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+
 ## Install
 
 ```sh
@@ -18,15 +21,7 @@ npm run dev
 
 ## Author
 
-👤 **João Marcos**
+**João Marcos**
 
 - Github: [@joaoMarcos777](https://github.com/joaoMarcos777)
 - LinkedIn: [@joaomarcos777](https://linkedin.com/in/joaomarcos777)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
